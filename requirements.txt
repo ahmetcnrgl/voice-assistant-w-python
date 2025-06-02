@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+spotipy
+requests 
+charset-normalizer 
+idna 
+urllib3 
+certifi 
